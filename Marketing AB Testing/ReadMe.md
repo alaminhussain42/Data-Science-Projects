@@ -15,7 +15,7 @@ Using statistical analysis, including the **Mann-Whitney U Test** and **Chi-Squa
 
 Marketing companies operate in a competitive environment where successful campaigns can drive significant business value. However, finding the right strategy requires data-driven decisions. A/B testing, a randomized experimentation process, allows businesses to compare different versions of marketing variables (e.g., web pages, banners, etc.) to see which performs better.
 
-In this scenario, most users were exposed to ads (experimental group), while a smaller control group saw a **Public Service Announcement (PSA)** or nothing in the same space. The dataset collected from this experiment aims to analyze user behavior, conversion rates, and attribute the success (if any) to the ad campaigns.
+In this scenario, most users were exposed to ads (experimental group), while a smaller control group saw a **Public Service Announcement (PSA)** or nothing in the same space. The dataset collected from this experiment aims to analyze user behavior, and conversion rates, and attribute the success (if any) to the ad campaigns.
 
 ---
 
